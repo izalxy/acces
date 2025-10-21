@@ -1,0 +1,27 @@
+[
+  {
+    "username": "IZAL",
+    "password": "IZAL",
+    "role": "owner",
+    "expired": "2025-12-31T23:59:59.000Z"
+  },
+  {
+    "username": "099",
+    "password": "099",
+    "role": "reseller",
+    "expired": "2025-12-31T23:59:59.000Z"
+  },
+  {
+    "username": "1234",
+    "password": "123",
+    "role": "user",
+    "expired": "2025-10-15T23:59:59.000Z"
+  },
+  {
+    "username": "123",
+    "password": "123",
+    "role": "user",
+    "expiresAt": 1763447275042,
+    "createdAt": 1760768875061
+  }
+]
