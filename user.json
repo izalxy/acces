@@ -23,5 +23,12 @@
     "role": "user",
     "expiresAt": 1763447275042,
     "createdAt": 1760768875061
+  },
+  {
+    "username": "anjy",
+    "password": "anjy",
+    "role": "user",
+    "expiresAt": 1766793106978,
+    "createdAt": 1761522706987
   }
 ]
